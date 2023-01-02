@@ -15,8 +15,8 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b>C# (AR AND GAME DEVELOPMENT)</b>
-  - [AR (Encrypter)](https://github.com/PaulChola/UnityAPP)
-  - [GAME (Decrypter)](https://github.com/PaulChola/GameUnderDevelopment)
+  - [AR (VUFORIA)](https://github.com/PaulChola/UnityAPP)
+  - [GAME (UNITY ENGINE)](https://github.com/PaulChola/GameUnderDevelopment)
   
 - <b>Python</b>
   - [Classsical Ciphers (Cryptography Tool)](https://github.com/PaulChola/Rot13)
