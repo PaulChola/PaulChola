@@ -1,5 +1,9 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/PaulChola">Programmer</a>, <a href="https://github.com/PaulChola">Cybersecurity Student</a>, 
 
+<h2>👨‍💻 Programming languages:</h2>
+  
+<h2>👨‍💻 Networking :</h2>  
+  
 <h2>👨‍💻 Digital Forensics:</h2>
 
 - <b>Data Recovery()</b>
