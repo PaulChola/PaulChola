@@ -20,8 +20,11 @@
 - <b>Python</b>
   - [Classsical Ciphers (Cryptography Tool)](https://github.com/PaulChola/Rot13)
 
-<h2>📺 End point security</h2>
-- [Microsoft Sysinternals](https://www.youtube.com/watch?v=a83ASGn_V_s)
+<h2>📺 Project videoes security</h2>
+- [Microsoft Sysinternals](https://twitter.com/PaulChola96/status/1577983292749619200/video/1)
+- [AR Navigation system](https://twitter.com/PaulChola96/status/1517813893497765891/video/1)
+- [Cyptography](https://twitter.com/PaulChola96/status/1512176330879782912/video/1)  
+  
 
 
 <h2> 🤳 Connect with me:</h2>
