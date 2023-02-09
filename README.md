@@ -1,43 +1,56 @@
-<h1 align="center">Hi, I'm Paul Chola Mumbi!</h1>
-<p align="center">
-  <a href="https://github.com/PaulCholaMumbi">Cybersecurity Enthusiast</a> | 
-  <a href="https://github.com/PaulCholaMumbi">Penetration Tester</a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PaulCholaMumbi&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/PaulCholaMumbi?label=Followers&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/PaulCholaMumbi/PaulCholaMumbi?label=Last+Commit&style=flat-square" alt="Last Commit" />
-</p>
-<h2>👨‍💻 Skills:</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat-square&logo=kali-linux" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Nmap-lightblue?style=flat-square&logo=nmap" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-red?style=flat-square&logo=metasploit" alt="Metasploit" />
-</p>
-<h2>💻 Cybersecurity Expertise:</h2>
-<b>Penetration Testing</b>
-Vulnerability Assessment
-Web Application Testing
-<b>Exploitation Techniques</b>
-Social Engineering
-Physical Security Testing
-<b>Tools and Frameworks</b>
-Metasploit Framework
-Nmap
-Wireshark
-<b>Compliance and Standards</b>
-OWASP Top 10
-PCI DSS
-ISO 27001
-<h2>📈 Project highlights:</h2>
-<b>Penetration Test Report for XYZ Company</b>
-Successfully identified and reported critical vulnerabilities in the company's infrastructure.
-<b>Social Engineering Campaign for ABC Organization</b>
-Demonstrated the importance of awareness and training through a simulated phishing attack.
-<h2> 💬 Let's connect:</h2>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/PaulChola">Programmer</a>, <a href="https://github.com/PaulChola">Cybersecurity Student</a>, 
+
+  <h2>👨‍💻 Digital Forensics:</h2>
+
+- <b>Data Recovery()</b>
+  - [Malware Analysis]()
+-   <b>LABS and commands (FTK,Volatility,Azure,Exiftool)</b>
+  - [Image Analysis Middleware]()</b></i>
+  
+- <b>PowerShell</b>
+  
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/PaulChola/Computer_Information_Security/tree/main/Sentinel-Lab-main)
+  - [Active Directory COMING SOON.!!!]()
+  - [FIM (File Integrity Monitor)](https://github.com/PaulChola/Computer_Information_Security/tree/main/FIM)
+  
+- <b>C# (AR AND GAME DEVELOPMENT)</b>
+  - [AR (VUFORIA)](https://github.com/PaulChola/UnityAPP)
+  - [GAME (UNITY ENGINE)](https://github.com/PaulChola/GameUnderDevelopment)
+  
+- <b>Python</b>
+  - [Classsical Ciphers (Cryptography Tool)](https://github.com/PaulChola/Rot13)
+
+<h2>📺 Project videos security</h2>
+  
+- <b>[Microsoft Sysinternals](https://twitter.com/PaulChola96/status/1577983292749619200/video/1)</b>
+  
+- <b>[AR Navigation system](https://twitter.com/PaulChola96/status/1517813893497765891/video/1)</b>
+  
+- <b>[Cyptography](https://twitter.com/PaulChola96/status/1512176330879782912/video/1)</b>  
+  
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]:  https://twitter.com/PaulChola96
+[instagram]: https://www.instagram.com/paulchola96
+[linkedin]: https://www.linkedin.com/in/paul-chola-bwembya-mumbi-ba41a5258
+
 <!--
-**PaulCholaMumbi/PaulCholaMumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PaulChola/PaulChola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
