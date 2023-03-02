@@ -2,7 +2,7 @@
 
   <h2>👨‍💻 Digital Forensics:</h2>
 
-- <b>Data Recovery()</b>
+- <b>Data Recovery</b>
   - [Malware Analysis]
 -   <b>LABS and commands (FTK,Volatility,Azure,Exiftool)</b>
   - [Image Analysis Middleware]()</b></i>
