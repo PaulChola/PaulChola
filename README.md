@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/PaulChola">Programmer</a>, <a href="https://github.com/PaulChola">Cybersecurity Student</a>, 
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/PaulChola"></a>, <a href="https://github.com/PaulChola">Cybersecurity Student</a>, 
 
   <h2>👨‍💻 Digital Forensics:</h2>
 
