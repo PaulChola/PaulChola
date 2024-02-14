@@ -34,4 +34,4 @@ Feel free to check them out and star your favorites!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/PaulChola96)
 
-Thank you for visiting my profile! Feel free to reach out or contribute to my projects. Let's make something amazing together. 🌟
+
