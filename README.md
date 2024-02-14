@@ -32,9 +32,18 @@ The File Integrity Guardian is a Python-based system designed to ensure the secu
  
 **Digital Forensics**  
 
-- Data Recovery  
+- Data Recovery.
+- Yara and Sigma.  
 - Malware Analysis
-- Tools: FTK, Volatility, EnCase, Azure  
+- Tools: FTK, Volatility, EnCase, Azure, BelkaSoft X.
+
+**Network Cisco**  
+
+- Switching and Routing.
+- Subnetting.  
+- Firewalls,ACLS and Serves
+- Security:Endpoint.  
+  
 
 **PowerShell Scripting**   
 
