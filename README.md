@@ -21,9 +21,64 @@ Hello there! I'm Paul,Junior Cybersecurity Analyst & Student  . 🚀
 
 Here are some of the projects I'm most proud of:
 
-🛡️ Uriel SysGuard
+# 🛡️ Uriel SysGuard
 
-The File Integrity Guardian is a Python-based system designed to ensure the security and integrity of files stored on a server or network. It utilizes hash functions like SHA-256 and SHA-3 to calculate unique fingerprints (hashes) of files and stores them in a SQLite database. The system continuously monitors the specified files and detects any changes or modifications. When a change is detected, it sends real-time notifications to administrators, allowing them to respond promptly to potential security threats. Additionally, the File Integrity Guardian incorporates YARA, a pattern matching tool, to scan files for specific patterns or signatures associated with malware or security threats. This integration with YARA enhances the system's capability to detect and respond to potential threats effectively. In the future, the File Integrity Guardian will be integrated with Wazuh and Sysmon for enhanced security monitoring and threat detection.
+## File Integrity Monitoring & Threat Detection Tool
+
+Uriel SysGuard is a Python-based **File Integrity Monitoring (FIM)** and **threat detection** tool designed to help security analysts detect unauthorized file changes and potential malicious activity on a system. The project focuses on applying real-world defensive security concepts commonly used in SOC, DFIR, and SIEM environments.
+
+---
+
+## 🎯 Project Purpose
+
+File integrity monitoring is a critical security control used to detect:
+
+* Unauthorized file modifications
+* Malware persistence techniques
+* Insider threats
+* System compromise indicators
+
+Uriel SysGuard was built to demonstrate how hashing, rule-based detection, and automation can be combined to strengthen host-based security monitoring.
+
+---
+
+## ⚙️ Key Features
+
+* 🔐 **File Integrity Monitoring** using cryptographic hash functions (SHA-256 / SHA-3)
+* 🧬 **Change Detection** for monitored files and directories
+* 🦠 **YARA Rule Integration** for malware and pattern detection
+* 📊 **Security-Oriented Logging** for forensic analysis
+* 🔄 Designed for **future SIEM integration** (e.g., Wazuh, Sysmon)
+
+---
+
+## 🧠 Skills & Concepts Demonstrated
+
+* Defensive cybersecurity principles
+* Digital forensics & incident response (DFIR)
+* Cryptographic hashing
+* Malware detection with YARA
+* Python scripting & automation
+* Host-based security monitoring
+* Log analysis fundamentals
+
+---
+
+## 🛠️ Technologies Used
+
+* **Python**
+* **Hashlib (SHA-256 / SHA-3)**
+* **YARA**
+* **OS & File System APIs**
+
+---
+
+## 🚀 How It Works (High-Level)
+
+1. Selected files or directories are monitored
+2. Cryptographic hashes are generated and stored
+3. Files are
+
 
 ## 💻 Technical Skills
 
