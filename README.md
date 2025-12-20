@@ -1,4 +1,4 @@
-# Welcome 👋
+# PAUL CHOLA BWEMBYA MUMBI 👋
 
 Hello! I’m **Paul Chola**, a **Junior Cybersecurity Analyst and Student** passionate about defending digital systems and solving complex security challenges. 🚀
 
