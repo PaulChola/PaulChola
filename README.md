@@ -76,7 +76,8 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ### 3. Active Directory Lab Setup
 - **Windows Server 2019 + Windows 10** on VirtualBox  
 - Integrated **domain, users, and security policies**  
-- Used for learning **AD administration & security controls**  
+- Used for learning **AD administration & security controls**
+-  ![AD-DS](https://learn.microsoft.com/api/credentials/share/en-us/PaulChola-0710/BEAB26268B2375A7?sharingId=468B6321D456D948)
 
 ---
 
