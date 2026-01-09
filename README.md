@@ -69,7 +69,9 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 
 ### 2. Cross-Platform Telemetry Script
 - Collects **OS & login/logout events** across Windows endpoints  
-- Stored in **SQLite** for analysis and SIEM integration  
+- Stored in **SQLite** for analysis and SIEM integration
+- ![Cross-Platform Telemetry Script](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)
+- [Repository](https://github.com/GergesHany/Little-Lemon)
 
 ### 3. Active Directory Lab Setup
 - **Windows Server 2019 + Windows 10** on VirtualBox  
