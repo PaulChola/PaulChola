@@ -239,9 +239,9 @@ I actively participate in **CTF competitions**, **Hack The Box**, and hands-on l
 
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaBhatt3010/AdityaBhatt3010/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PaulChola/PaulChola/blob/main/Snake.yml/ dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PaulChola/PaulChola/blob/main/Snake.yml/ dist/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/PaulChola/PaulChola/blob/main/Snake.yml/ dist/github-snake.svg" />
 </picture>
 
 
