@@ -1,84 +1,79 @@
-# PAUL CHOLA BWEMBYA MUMBI 👋
+# 👋 Hi, I’m Paul Chola Bwembya Mumbi
 
-Hello! I’m **Paul Chola**, a **Junior Cybersecurity Analyst and Student** passionate about defending digital systems and solving complex security challenges. 🚀
+I’m a **Junior Cybersecurity Analyst and Student** with a strong interest in defensive security, endpoint visibility, and understanding how systems behave under the hood.
 
-I specialize in **threat detection, endpoint visibility, log analysis, and security automation**, and I actively participate in **Capture The Flag (CTF) competitions** to sharpen my hands-on cybersecurity skills. I’m a **Google Cybersecurity Certificate holder**, scholarship recipient, and continuously learning **cloud networking, AI for security, and ethical hacking** to stay ahead in the evolving cybersecurity landscape.
-
-I enjoy combining technical skills with analytical thinking to **improve visibility, detect suspicious activity, and support incident response efforts**.
+I enjoy building **practical security tooling**, digging through logs, and turning raw telemetry into something useful for detection and investigation. I actively participate in **CTFs**, work on hands-on projects, and continuously sharpen my skills to prepare for real-world SOC and DFIR environments.
 
 ---
 
-## About Me 📖
+## 📖 About Me
 
-- 👨‍💻 Currently working on: **Endpoint Visibility & Telemetry Projects**
-- 🌱 Currently learning: Cloud Networking, AI for Security, Ethical Hacking
-- 💬 Ask me about: Cybersecurity, SOC Operations, DFIR, OSINT, PowerShell
-- 📫 How to reach me:
-  - 📧 [mumbipaul75@gmail.com](mailto:mumbipaul75@gmail.com)
-  - 🐦 [Twitter](https://twitter.com/PaulChola96)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 6 feet tall and a nerd by choice
+* 👨‍💻 **Current focus:** Endpoint Visibility & Telemetry Projects
+* 🌱 **Learning:** Cloud Networking, AI for Security, Ethical Hacking
+* 💬 **Topics I enjoy discussing:** SOC Operations, DFIR, OSINT, PowerShell, Endpoint Security
+* 📫 **Reach me at:**
 
----
-
-## 🛡️ Professional Statement
-
-I am an aspiring cybersecurity professional with hands-on experience in **endpoint monitoring, log collection, threat detection, and security automation**. As a **Google Cybersecurity Certificate holder**, scholarship recipient, and active **CTF participant**, I have developed a solid foundation in **SOC operations, endpoint security, digital forensics, and incident response**.
-
-I leverage **PowerShell and Python scripting**, security logging concepts, and cross-platform system knowledge to build **practical defensive security tools** that improve visibility and support investigations. I am committed to continuous learning and contributing to resilient and secure digital environments.
+  * 📧 [mumbipaul75@gmail.com](mailto:mumbipaul75@gmail.com)
+  * 🐦 [Twitter](https://twitter.com/PaulChola96)
+  * 💼 [LinkedIn](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285/)
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** 6 feet tall and proudly nerdy
 
 ---
 
-##
+## 🛡️ Professional Summary
+
+I am an aspiring cybersecurity professional with hands-on experience in **endpoint monitoring, log collection, threat detection, and security automation**. As a **Google Cybersecurity Certificate holder**, scholarship recipient, and active **CTF participant**, I have built a solid foundation in **SOC operations, endpoint security, and incident response fundamentals**.
+
+I enjoy working with **PowerShell, Python, and SQL** to create defensive tools that improve visibility and support investigations. My goal is to keep learning, keep building, and contribute to stronger and more resilient security environments.
+
 ---
 
 ## 🆕 Featured Project — Cross-Platform PowerShell SQL Telemetry
 
 ### Endpoint Telemetry Collection & Storage Tool
 
-The **Cross-Platform PowerShell SQL Telemetry** project is a defensive tooling solution designed to collect **system and security telemetry** from Windows and Linux endpoints and store it in a **SQL database** for correlation, querying, and long-term analysis.
+**Cross-Platform PowerShell SQL Telemetry** is a defensive security project focused on collecting **system and security telemetry** from both **Windows and Linux endpoints** and storing it in a **SQL database** for querying, correlation, and long-term analysis.
 
-This project focuses on **structured telemetry collection**, supporting SOC monitoring, investigations, and future SIEM integration.
+The project is designed to simulate real-world SOC-style data collection and serves as a foundation for future **detection logic, alerting, and SIEM integration**.
 
 ---
 
-### 🎯 Project Purpose
+### 🎯 Project Goals
 
-To centralize endpoint telemetry and provide:
-
-- Persistent storage of security-relevant data
-- Improved visibility into endpoint activity
-- Support for investigations and timeline analysis
-- A foundation for detection and alerting logic
+* Centralize endpoint telemetry
+* Improve visibility into system and user activity
+* Support investigations and timeline analysis
+* Build a scalable base for detection engineering
 
 ---
 
 ### ⚙️ Key Capabilities
 
-- 🖥️ **Cross-Platform Support** (Windows & Linux)
-- 🗃️ **SQL Database Integration**
-- 🛠️ **PowerShell-based Telemetry Collection**
-- 📊 Data collection including:
-  - User logins and sessions
-  - System information
-  - Process and activity data
+* 🖥️ Cross-platform support (Windows & Linux)
+* 🗃️ SQL database storage for structured telemetry
+* 🛠️ PowerShell-based data collection
+* 📊 Collected data includes:
+
+  * User login and session activity
+  * System and OS information
+  * Process and basic activity data
 
 ---
 
-### 🧠 Skills & Concepts Demonstrated
+### 🧠 Skills Demonstrated
 
-- Cross-platform PowerShell automation
-- Telemetry engineering fundamentals
-- SQL data storage and querying
-- Endpoint monitoring concepts
-- Defensive security tooling
+* Cross-platform PowerShell scripting
+* Endpoint telemetry design
+* SQL data modeling and querying
+* Log and endpoint monitoring concepts
+* Defensive security tooling
 
 ---
 
-### 🔗 Repository
+### 🔗 Project Repository
 
-https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry
+👉 [https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry)
 
 ---
 
@@ -86,42 +81,44 @@ https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry
 
 ### Programming & Scripting
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+* **Python** – scripting, automation, and analysis
+* **PowerShell** – endpoint visibility and security automation
+* **C#** – application and tooling fundamentals
 
 ---
 
-### Cybersecurity Tools & Concepts
+### Cybersecurity Tools & Knowledge Areas
 
-![YARA](https://img.shields.io/badge/-YARA-FF6F00?style=flat-square)
-![FTK](https://img.shields.io/badge/-FTK-0055A5?style=flat-square)
-![Volatility](https://img.shields.io/badge/-Volatility-DA291C?style=flat-square)
-![EnCase](https://img.shields.io/badge/-EnCase-3F48CC?style=flat-square)
+* Endpoint Security & Monitoring
+* Digital Forensics & Incident Response (DFIR)
+* Log Analysis and Investigation
+* Security Automation
+* Network Security Fundamentals
 
-- Digital Forensics & Incident Response (DFIR)
-- Endpoint Security & Monitoring
-- Log Analysis
-- Security Automation & Scripting
-- Network Security Fundamentals
+**Tools & Frameworks:**
+YARA · Volatility · FTK · EnCase
 
 ---
 
 ## 🦾 Other Projects
 
-- **AR Prototype** — C#, Unity  
-- **Ransomware Portal** — C# (.NET)  
-- **Log Analysis Scripts** — PowerShell  
+* **AR Prototype** — C#, Unity
+* **Ransomware Portal** — C# (.NET)
+* **Log Analysis Scripts** — PowerShell
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/PaulChola96)
+* 💼 [LinkedIn](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285/)
+* 🐦 [Twitter](https://twitter.com/PaulChola96)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 Python · PowerShell · Bash · SQL · YARA · Volatility · FTK · EnCase · Unity · HTML5
+
+---
+
+*Always learning. Always building. Focused on defense.*
