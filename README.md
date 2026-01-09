@@ -70,13 +70,14 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ### 2. Cross-Platform Telemetry Script
 - Collects **OS & login/logout events** across Windows endpoints  
 - Stored in **SQLite** for analysis and SIEM integration
-- ![AD-DS](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png)
+-
   
 
 ### 3. Active Directory Lab Setup
 - **Windows Server 2019 + Windows 10** on VirtualBox  
 - Integrated **domain, users, and security policies**  
-- Used for learning **AD administration & security controls**  
+- Used for learning **AD administration & security controls**
+  ![AD-DS](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png) 
 
 ---
 
