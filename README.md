@@ -64,7 +64,7 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ### 1. Little-Lemon 🍋 (Django Restaurant Project)
 - Transitioning from a one-page site to **database-driven Django web app**  
 - Features **Home, About, Menu, Book pages**, with menu stored in a database  
-- ![Little Lemon](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
+  ![Little Lemon](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
   [Repository](https://github.com/GergesHany/Little-Lemon)
 
 ### 2. Cross-Platform Telemetry Script
