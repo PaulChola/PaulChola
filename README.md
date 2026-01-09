@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=%F0%9F%94%91%20Paul%20Chola%20Bwembya%20Mumbi%20%E2%80%94%20Cybersecurity+&+Dev&fontColor=FFFAFA&fontSize=28&color=0F0F0F,1C1C1C,2C3E50&animation=fadeIn" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FAFF3C&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+|+VAPT+|+SIEM+Automation;Python+&+PowerShell+Scripts;Cloud+Security+|+Active+Directory;CTF+Enthusiast+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FAFF3C&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+|+AD-DS+|+Python+Automation;Python+&+PowerShell+Scripts;Cloud+Security+|+Active+Directory;CTF+Enthusiast+%F0%9F%94%A5" />
 </h1>
 
 ---
