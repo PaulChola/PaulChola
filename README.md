@@ -65,13 +65,13 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 - Transitioning from a one-page site to **database-driven Django web app**  
 - Features **Home, About, Menu, Book pages**, with menu stored in a database  
 - ![Little Lemon](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
-- [Repository](https://github.com/GergesHany/Little-Lemon)
+  [Repository](https://github.com/GergesHany/Little-Lemon)
 
 ### 2. Cross-Platform Telemetry Script
 - Collects **OS & login/logout events** across Windows endpoints  
 - Stored in **SQLite** for analysis and SIEM integration
 - ![Cross-Platform Telemetry Script](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)
-- [Repository](https://github.com/GergesHany/Little-Lemon)
+  [Repository](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry)
 
 ### 3. Active Directory Lab Setup
 - **Windows Server 2019 + Windows 10** on VirtualBox  
