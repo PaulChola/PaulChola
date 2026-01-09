@@ -70,6 +70,8 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ### 2. Cross-Platform Telemetry Script
 - Collects **OS & login/logout events** across Windows endpoints  
 - Stored in **SQLite** for analysis and SIEM integration
+  ![Cross-Platform Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png) 
+- 
 -
   
 
