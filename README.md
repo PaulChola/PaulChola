@@ -191,37 +191,6 @@ I actively participate in **CTF competitions**, **Hack The Box**, and hands-on l
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍋 Little Lemon — Django Restaurant App
-- Migrating from a static site to a **database-driven Django application**
-- Implemented **Home, About, Menu & Booking** pages
-- Menu designed for **seasonal database updates**
-
-![Little Lemon](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)  
-🔗 **Repo:** https://github.com/GergesHany/Little-Lemon
-
----
-
-### 🧪 Cross-Platform Telemetry Script
-- Collects **OS, login & logout events** across endpoints
-- Stores data in **SQLite** for investigation and SIEM ingestion
-
-![Telemetry Script](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)  
-🔗 **Repo:** https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry
-
----
-
-### 🏢 Active Directory Lab (AD DS)
-- Windows Server 2019 + Windows 10 (VirtualBox)
-- Domain setup, users, GPOs & security policies
-- Focused on **enterprise identity & access control**
-
-![AD DS](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png)  
-🔗 **Credential:** https://learn.microsoft.com/api/credentials/share/en-us/PaulChola-0710/BEAB26268B2375A7
-
----
-
 ## 🌐 Socials & Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285)
