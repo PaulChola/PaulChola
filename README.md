@@ -61,17 +61,56 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 
 ## 🌟 Projects
 
-### 1. Little-Lemon 🍋 (Django Restaurant Project)
-- Transitioning from a one-page site to **database-driven Django web app**  
-- Features **Home, About, Menu, Book pages**, with menu stored in a database  
-![Little Lemon](https://github.com/GergesHany/Little-Lemon/assets/105644935/ed14c250-a77c-4f11-bd07-c7aeb5898210)
-[Repository](https://github.com/GergesHany/Little-Lemon)
+### 🔐 1. Cross-Platform Endpoint Telemetry & Investigation
+- Collects **OS activity, login/logout events, and system telemetry**
+- Works across **Windows & Linux** using PowerShell and Python
+- Stores logs in **SQLite** for analysis and SIEM integration
+- Designed for **endpoint visibility and threat detection**
 
-### 2. Cross-Platform Telemetry Script
-- Collects **OS & login/logout events** across Windows endpoints  
-- Stored in **SQLite** for analysis and SIEM integration
-![Cross-Platform Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)
-[Repository](  https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry)
+![Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)
+
+🔗 Repository:  
+https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry
+
+---
+### 🖥️ 2. Active Directory Domain Services (AD DS) Lab
+- Built using **Windows Server 2019 + Windows 10** in VirtualBox
+- Configured:
+  - Domain Controller
+  - Users & Groups
+  - Group Policies
+  - Security Policies
+- Used for **identity management and security testing**
+
+![AD Lab](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png)
+
+🔗 Repository:  
+https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services
+
+---
+
+### 🛡️ 3. Endpoint Security & Investigation Scripts
+- Collection of **Python and PowerShell scripts** for:
+  - Log analysis
+  - Incident investigation
+  - System monitoring
+  - Automation
+- Supports **blue team and SOC workflows**
+
+🔗 Repository:  
+https://github.com/PaulChola
+
+---
+
+### 📊 4. SIEM & Security Automation Projects
+- Custom scripts for:
+  - Log ingestion
+  - Alert enrichment
+  - Threat intelligence correlation
+- Designed for **SOC environments and security monitoring**
+
+🔗 Repository:  
+https://github.com/PaulChola
 
 ### 3. Active Directory Lab Setup
 - **Windows Server 2019 + Windows 10** on VirtualBox  
