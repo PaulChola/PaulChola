@@ -59,15 +59,6 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 
 ![Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/images/image.png)
 
----
-
-### 📊 4. SIEM & Security Automation Projects
-- Custom scripts for:
-  - Log ingestion
-  - Alert enrichment
-  - Threat intelligence correlation
-- Designed for **SOC environments and security monitoring**
-
 🔗 Repository:  
 https://github.com/PaulChola
 
