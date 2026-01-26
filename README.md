@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FAFF3C&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+|+AD-DS+|+Python+Automation;Python+&+PowerShell+Scripts;Cloud+Security+|+Active+Directory;CTF+Enthusiast+%F0%9F%94%A5" />
 </h1>
 
----
-
 ## 👋 About Me
 
 I am **Paul Chola Bwembya Mumbi**, a **junior cybersecurity analyst** and software developer based in **Ndola, Zambia**.  
@@ -17,8 +15,6 @@ I specialize in:
 
 I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurity challenges to sharpen my skills.
 
----
-
 ## 📜 Certifications & Trainings
 
 - **Google Cybersecurity Professional Certificate**  
@@ -26,8 +22,6 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 - **OSINT, SIEM, Azure Sentinel Training**  
 - **TryHackMe Learning Paths**: Jr Penetration Tester, Web Fundamentals  
 - **IT & Linux Training:** PowerShell on Linux, Active Directory Labs  
-
----
 
 ## 🛠️ Technical Skills
 
@@ -45,8 +39,6 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
 ## 👨‍💻 Work Experience
 
 **Junior Cybersecurity Analyst | Personal & Freelance Projects**  
@@ -56,8 +48,6 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 **HackTheBox & CTF Competitions**  
 - Contributed to Zambia’s **first HackTheBox competition success**  
 - Developed scripts and detection logic for practice challenges  
-
----
 
 ## 🌟 Projects
 
