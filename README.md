@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=FAFF3C&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+|+AD-DS+|+Python+Automation;Python+&+PowerShell+Scripts;Cloud+Security+|+Active+Directory;CTF+Enthusiast+%F0%9F%94%A5" />
 </h1>
 
-## 👋 About Me
+## About Me
 
 I am **Paul Chola Bwembya Mumbi**, a **junior cybersecurity analyst** and software developer based in **Ndola, Zambia**.  
 I specialize in:
@@ -15,7 +15,7 @@ I specialize in:
 
 I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurity challenges to sharpen my skills.
 
-## 📜 Certifications & Trainings
+## Certifications & Trainings
 
 - **Google Cybersecurity Professional Certificate**  
 - **ITExperience Google Career Certificate**  
@@ -23,7 +23,7 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 - **TryHackMe Learning Paths**: Jr Penetration Tester, Web Fundamentals  
 - **IT & Linux Training:** PowerShell on Linux, Active Directory Labs  
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Cybersecurity & VAPT:** Ethical Hacking, SIEM, Incident Response, Threat Intelligence  
 **Cloud Security:** Azure, AWS IAM, Sentinel, Terraform  
@@ -39,7 +39,7 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 👨‍💻 Work Experience
+## Work Experience
 
 **Junior Cybersecurity Analyst | Personal & Freelance Projects**  
 - Built a **partial endpoint investigation script** using Python & PowerShell  
@@ -49,9 +49,9 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 - Contributed to Zambia’s **first HackTheBox competition success**  
 - Developed scripts and detection logic for practice challenges  
 
-## 🌟 Projects
+## Projects
 
-### 🔐 1. Cross-Platform Endpoint Telemetry & Investigation
+### 1. Cross-Platform Endpoint Telemetry & Investigation
 - Collects **OS activity, login/logout events, and system telemetry**
 - Works across **Windows & Linux** using PowerShell and Python
 - Stores logs in **SQLite** for analysis and SIEM integration
