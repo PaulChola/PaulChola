@@ -67,38 +67,7 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 - Stores logs in **SQLite** for analysis and SIEM integration
 - Designed for **endpoint visibility and threat detection**
 
-![Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/image.png)
-
-🔗 Repository:  
-https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry
-
----
-### 🖥️ 2. Active Directory Domain Services (AD DS) Lab
-- Built using **Windows Server 2019 + Windows 10** in VirtualBox
-- Configured:
-  - Domain Controller
-  - Users & Groups
-  - Group Policies
-  - Security Policies
-- Used for **identity management and security testing**
-
-![AD Lab](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png)
-
-🔗 Repository:  
-https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services
-
----
-
-### 🛡️ 3. Endpoint Security & Investigation Scripts
-- Collection of **Python and PowerShell scripts** for:
-  - Log analysis
-  - Incident investigation
-  - System monitoring
-  - Automation
-- Supports **blue team and SOC workflows**
-
-🔗 Repository:  
-https://github.com/PaulChola
+![Telemetry](https://github.com/PaulChola/Cross-Platform-PowerShell-SQL-Telemetry/blob/main/images/image.png)
 
 ---
 
