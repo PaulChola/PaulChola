@@ -5,33 +5,34 @@
 </h1>
 
 ## About Me
-
-I am **Paul Chola Bwembya Mumbi**, a **junior cybersecurity analyst** and software developer based in **Ndola, Zambia**.  
+I am **Paul Chola Bwembya Mumbi**,recent IT graduate and upcoming cybersecurity analyst based in **Ndola, Zambia**.  
 I specialize in:
 
-- **Vulnerability Assessment & Penetration Testing (VAPT)**  
-- **SIEM, Endpoint Visibility & Security Automation**  
-- **Cloud Security & Active Directory Administration**  
-- **Programming & Scripting:** Python, PowerShell, Bash  
+- **NIST-CST,Risk Management,Identity Access Management(IAM)**
+- **Malware analysis**
+- **SIEM, Endpoint Visibility & Security Automation With Python**  
+- **Linux,Window & Windows Server(Active Directory Administration)**  
+- **SQL, WAZUH, SPLUNK**
 
 I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurity challenges to sharpen my skills.
 
 ## Certifications & Trainings
 
 - **Google Cybersecurity Professional Certificate**  
-- **ITExperience Google Career Certificate**  
-- **OSINT, SIEM, Azure Sentinel Training**  
+- **Python IT Automation**  
+- **OSINT**
+- **DFIR**  
 - **TryHackMe Learning Paths**: Jr Penetration Tester, Web Fundamentals  
 - **IT & Linux Training:** PowerShell on Linux, Active Directory Labs  
 
 ## Technical Skills
 
 **Cybersecurity & VAPT:** Ethical Hacking, SIEM, Incident Response, Threat Intelligence  
-**Cloud Security:** Azure, AWS IAM, Sentinel, Terraform  
-**Programming & Scripting:** Python, PowerShell, Bash, SQL  
-**Database & Tools:** SQLite, MySQL, Oracle SQL, Git, Docker  
+**Cloud Security:** Azure(exposure).
+**Programming & Scripting:** Python, PowerShell,SQL  
+**Database & Tools:** SQLite, MySQL, Oracle SQL, Git. 
 **Networking & Analysis:** TCP/IP, Packet Tracing, Network Security  
-**Other Tools:** VSCode, Kali Linux, Windows Terminal, Nessus, Acunetix  
+**Other Tools:** Kali Linux,WAZUH,Windows and Server,Wireshark,Nmap,Terminal, Nessus,,Acunetix  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
