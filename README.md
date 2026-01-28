@@ -62,12 +62,21 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 🔗 Repository:  
 https://github.com/PaulChola
 
-### 3. Active Directory Lab Setup
-- **Windows Server 2019 + Windows 10** on VirtualBox  
-- Integrated **domain, users, and security policies**  
-- Used for learning **AD administration & security controls**
-  ![AD-DS](https://github.com/PaulChola/Administer-_Active_-Directory_Domain_Services/blob/main/AD-DS.png)
-  [Credentials](https://learn.microsoft.com/api/credentials/share/en-us/PaulChola-0710/BEAB26268B2375A7?sharingId=468B6321D456D948)
+### 2. Automate Cybersecurity Tasks with Python
+- A comprehensive Python automation project demonstrating practical cybersecurity data processing skills through PDF extraction, intelligent data parsing, and professional Excel report generation.
+## Sample Data
+
+### Input: PDF File
+
+![PDF Input Screenshot](docs/hss_(b.a_nqs)_final_pub._list_-_male.png)
+
+The input PDF contains 27 pages of unstructured student enrollment data from the University of Zambia (2016 admission list) with mixed formatting and combined fields.
+
+### Output: Excel File
+
+![Excel Output Screenshot](docs/students_list.png)
+
+The output file contains 758 rows with 755 student records organized into 6 columns (NO., STUDENT NO., SURNAME, OTHER NAMES, FIRST NAME, NRC/PASSPORT) with professional formatting including frozen headers, auto-filter, and styled cells.
 
 ---
 
