@@ -11,7 +11,7 @@ I specialize in:
 - **NIST-CST,Risk Management,Identity Access Management(IAM)**
 - **Malware analysis**
 - **SIEM, Endpoint Visibility & Security Automation With Python**  
-- **Linux,Window & Windows Server(Active Directory Administration)**  
+- **Linux,Window 11 & Windows Server(Active Directory Administration)**  
 - **SQL, WAZUH, SPLUNK**
 
 I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurity challenges to sharpen my skills.
@@ -20,10 +20,10 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 
 - **Google Cybersecurity Professional Certificate**  
 - **Python IT Automation**  
-- **OSINT**
-- **DFIR**  
-- **TryHackMe Learning Paths**: Jr Penetration Tester, Web Fundamentals  
-- **IT & Linux Training:** PowerShell on Linux, Active Directory Labs  
+- **Ethical Hacker - Cisco Networking Academy.**
+- **Microsoft Applied Skills - Microsoft**
+- **Digital Forensics - Belkasoft Training Center.**
+- **Access Granted CTF - Digital Safe Limited, Zambia.**
 
 ## Technical Skills
 
