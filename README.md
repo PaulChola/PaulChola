@@ -9,7 +9,7 @@ I am **Paul Chola Bwembya Mumbi**,recent IT graduate and upcoming cybersecurity 
 
 I specialize in:
 
-- **NIST-CST,Risk Management,Identity Access Management(IAM)**
+- **NIST-CSF,Risk Management,Identity Access Management(IAM)**
 - **Malware analysis**
 - **SIEM, & IT Automation With Python**  
 - **Linux,Window 11 & Windows Server(Active Directory Administration)**  
