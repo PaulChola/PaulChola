@@ -108,21 +108,6 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PaulChola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-🚀 **Let’s connect and collaborate on cybersecurity, cloud security, and security automation!**
-
-
----
-
 ## 👋 About Me
 
 I’m **Paul Chola Bwembya Mumbi**, a **Junior Cybersecurity Analyst** and developer based in **Ndola, Zambia**.
@@ -234,14 +219,4 @@ I actively participate in **CTF competitions**, **Hack The Box**, and hands-on l
 
 🚀 **Always learning. Always building. Let’s collaborate on cybersecurity, automation, and cloud security.**
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PaulChola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-🚀 **Always learning. Always building. Let’s collaborate on cybersecurity, automation, and cloud security.**
