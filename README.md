@@ -62,21 +62,64 @@ I actively participate in **CTF competitions**, **HackTheBox**, and cybersecurit
 🔗 Repository:  
 https://github.com/PaulChola
 
-### 2. Automate Cybersecurity Tasks with Python
-- A comprehensive Python automation project demonstrating practical cybersecurity data processing skills through PDF extraction, intelligent data parsing, and professional Excel report generation.
-## Sample Data
+### 2. 🤖 Automate Cybersecurity Tasks with Python
 
-### Input: PDF File
+A Python-based **security automation project** that demonstrates how unstructured data can be automatically extracted, cleaned, and transformed into structured, analyst-ready reports. This project mirrors real-world automation used in cybersecurity operations, audits, and reporting workflows.
 
+---
+
+## 🔁 What This Automation Does
+- Automatically extracts text from **multi-page PDF documents**
+- Parses **unstructured and inconsistently formatted data**
+- Separates combined fields into structured columns
+- Cleans and validates extracted records
+- Generates a **professionally formatted Excel report**
+- Eliminates repetitive manual data processing tasks
+
+---
+
+## 📂 Sample Data
+
+### 📥 Input: PDF File
 ![PDF Input Screenshot](https://github.com/PaulChola/Cyber-security-Portfolio-Project/blob/main/Google-Cybersecurity-Professional-Portfolio/07-Automate-Cybersecurity-Tasks-with-Python/docs/hss_(b.a_nqs)_final_pub._list_-_male.png)
 
-The input PDF contains 27 pages of unstructured student enrollment data from the University of Zambia (2016 admission list) with mixed formatting and combined fields.
+**Input Details:**
+- 27-page PDF document
+- Unstructured student enrollment data
+- Mixed formatting and combined fields
+- Real-world data quality challenges
 
-### Output: Excel File
+---
 
+### 📤 Output: Excel File
 ![Excel Output Screenshot](https://github.com/PaulChola/Cyber-security-Portfolio-Project/blob/main/Google-Cybersecurity-Professional-Portfolio/07-Automate-Cybersecurity-Tasks-with-Python/docs/students_list.png)
 
-The output file contains 758 rows with 755 student records organized into 6 columns (NO., STUDENT NO., SURNAME, OTHER NAMES, FIRST NAME, NRC/PASSPORT) with professional formatting including frozen headers, auto-filter, and styled cells.
+**Output Details:**
+- **758 rows** containing **755 cleaned student records**
+- Organized into **6 structured columns**:
+  - NO.
+  - STUDENT NO.
+  - SURNAME
+  - OTHER NAMES
+  - FIRST NAME
+  - NRC / PASSPORT
+- Automated formatting:
+  - Frozen headers
+  - Auto-filter enabled
+  - Styled cells for readability
+
+---
+
+## 🔐 Why This Matters in Cybersecurity
+- Reduces analyst workload during investigations and audits
+- Improves accuracy when handling large datasets
+- Demonstrates practical **Python automation for security workflows**
+- Reflects SOC-style reporting and compliance tasks
+
+---
+
+## 🛠️ Technologies Used
+`Python` • `PDF Parsing` • `Data Cleaning` • `Excel Automation`
 
 ---
 
