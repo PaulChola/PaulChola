@@ -78,17 +78,13 @@ I continuously build practical cybersecurity skills through labs, personal proje
 ### Platforms & Labs
 
 * Hack The Box
-* LetsDefend
-* Microsoft security labs
 * Azure Sentinel / Microsoft Sentinel
 * Wazuh
-* Splunk
-* Cisco cybersecurity labs
-* Digital Safe Limited — Access Granted CTF
+* Cisco Pracket Tracer labs
 
 ---
 
-## 🚩 Hack The Box & CTFs
+## Hack The Box
 
 I use Capture The Flag competitions and hands-on labs to continuously improve my practical cybersecurity skills.
 
