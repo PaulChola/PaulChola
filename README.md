@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm **Paul Chola Bwembya Mumbi**, a cybersecurity graduate from Zambia with hands-on experience in **IT support, Active Directory, Windows environments, Python automation, and cybersecurity labs**.
 
@@ -22,20 +22,20 @@ I currently work as an **IT Support Assistant Intern at the Food Reserve Agency 
 
 My approach to cybersecurity is practical: I learn by **building, troubleshooting, analysing, and participating in hands-on labs and CTFs**.
 
-### 🔎 Current Focus
+### Current Focus
 
-* 🖥️ IT Support & System Administration
-* 🔐 Active Directory & Windows Server
-* 🛡️ SOC Operations & SIEM
-* ☁️ Cloud Security
-* 🐍 Python & PowerShell Automation
-* 📊 Data Analysis & SQL
-* 🧪 Malware Analysis
-* 🚩 CTFs & Hack The Box
+* IT Support & System Administration
+* Active Directory & Windows Server
+* SOC Operations & SIEM
+* Cloud Security
+* Python & PowerShell Automation
+* Data Analysis & SQL
+* Malware Analysis
+* CTFs & Hack The Box
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### IT Support Assistant Intern — Food Reserve Agency
 
@@ -56,7 +56,7 @@ Supporting IT operations at the regional office and satellite depots.
 
 ---
 
-## 🛡️ Cybersecurity Experience & Practice
+## Cybersecurity Experience & Practice
 
 I continuously build practical cybersecurity skills through labs, personal projects, CTFs, and security platforms.
 
@@ -88,22 +88,22 @@ I continuously build practical cybersecurity skills through labs, personal proje
 
 ---
 
-## 🚩 CTF & Hack The Box
+##  CTF & Hack The Box
 
 I enjoy Capture The Flag competitions because they provide a practical way to improve problem-solving and security skills.
 
 ### Highlights
 
-* 🏴 **Hack The Box** — Active participant in cybersecurity challenges
-* 🧩 **HTB Script Kiddie** — Earned badge through practical challenge solving
-* 🚩 **HTB Cyber Apocalypse 2025** — Participated as an individual competitor
-* 🔎 **Holmes CTF 2025** — Participated in a defensive/security investigation challenge
-* 🇿🇲 **Access Granted CTF** — Participated in a Zambian cybersecurity competition
-* 🧪 Regular practice with web, Linux, Windows, network, forensic, and security challenges
+*  **Hack The Box** — Active participant in cybersecurity challenges
+*  **HTB Script Kiddie** — Earned badge through practical challenge solving
+*  **HTB Cyber Apocalypse 2025** — Participated as an individual competitor
+*  **Holmes CTF 2025** — Participated in a defensive/security investigation challenge
+*  **Access Granted CTF** — Participated in a Zambian cybersecurity competition
+*   Regular practice with web, Linux, Windows, network, forensic, and security challenges
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. Cross-Platform Endpoint Telemetry & Investigation
 
@@ -210,7 +210,7 @@ The project used a lightweight semantic-segmentation model to identify different
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 ### Cybersecurity
 
