@@ -37,9 +37,9 @@ My approach to cybersecurity is practical: I learn by **building, troubleshootin
 
 ##  Experience
 
-### IT Support Assistant Intern — Food Reserve Agency
+### IT Support Assistant Intern - Food Reserve Agency
 
-**Regional Office, Kasama | July 2026 – Present**
+**Regional Office, Kasama | July 2026 - Present**
 
 Supporting IT operations at the regional office and satellite depots.
 
@@ -78,7 +78,7 @@ I continuously build practical cybersecurity skills through labs, personal proje
 ### Platforms & Labs
 
 * Hack The Box
-* Azure Sentinel / Microsoft Sentinel
+* Microsoft Sentinel
 * Wazuh
 * Cisco Pracket Tracer labs
 
@@ -96,9 +96,9 @@ I use Capture The Flag competitions and hands-on labs to continuously improve my
 
 ### Other CTF Experience
 
-- **HTB Cyber Apocalypse 2025** — Individual participant
-- **Holmes CTF 2025** — Security investigation challenges
-- **Access Granted CTF** — Digital Safe Limited, Zambia
+- **HTB Cyber Apocalypse 2025** - Individual participant
+- **Holmes CTF 2025** - Security investigation challenges
+- **Access Granted CTF** - Digital Safe Limited, Zambia
 -  Regular practice across web, Linux, Windows, networking, forensics, and security challenges
 
 ## Projects
@@ -238,18 +238,18 @@ The project used a lightweight semantic-segmentation model to identify different
 
 ## 🏅 Certifications & Training
 
-* 🎓 **BSc Information Technology — Cybersecurity**
-* 🔐 **Google Cybersecurity Professional Certificate**
-* 🐍 **Google IT Automation with Python**
-* 📊 **Google Data Analytics**
-* 🖥️ **Microsoft Applied Skills — Active Directory Domain Services**
-* 🔐 **Microsoft Active Directory**
-* 🛡️ **Cisco CyberOps Associate**
-* 🧪 **Cisco Ethical Hacker**
-* 🔎 **Digital Forensics — Belkasoft Training**
-* 🛡️ **Cisco Certified Cybersecurity Associate**
-* 🚩 **Access Granted CTF — Digital Safe Limited, Zambia**
-* 🧑‍💻 **LetsDefend SOC Member**
+*  **BSc Information Technology - Cybersecurity**
+*  **Google Cybersecurity Professional Certificate**
+*  **Google IT Automation with Python**
+*  **Google Data Analytics**
+*  **Microsoft Applied Skills - Active Directory Domain Services**
+*  **Microsoft Active Directory**
+*  **Cisco CyberOps Associate**
+*  **Cisco Ethical Hacker**
+*  **Digital Forensics - Belkasoft Training**
+*  **Cisco Certified Cybersecurity Associate**
+*  **Access Granted CTF - Digital Safe Limited, Zambia**
+*  **LetsDefend SOC Member**
 
 ---
 
@@ -261,15 +261,13 @@ Current areas include:
 
 * Microsoft Sentinel & KQL
 * Microsoft Defender
-* Active Directory security
-* Cloud security
-* SOC analysis
-* Python security automation
+* Active Directory Domain Sevices
+* Google Cloud security
+* Python automation
 * PowerShell
 * Malware analysis
-* Threat detection
 * Data analysis
-* Network security
+* Network 
 
 ---
 
@@ -330,7 +328,7 @@ Current areas include:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PaulChola&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
@@ -338,7 +336,7 @@ Current areas include:
 
 ---
 
-## 💭 Developer Quote
+## Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -346,7 +344,7 @@ Current areas include:
 
 ---
 
-## 🚀 What's Next?
+## What's Next?
 
 I'm focused on building practical experience in **IT Support, System Administration, SOC Operations, Cybersecurity, Automation, and Cloud Security**.
 
