@@ -92,17 +92,11 @@ I continuously build practical cybersecurity skills through labs, personal proje
 
 I use Capture The Flag competitions and hands-on labs to continuously improve my practical cybersecurity skills.
 
-### Hack The Box
+## Hack The Box
 
-- **HTB Rank:** Professional
-- **Level:** 48
-- **Machines:** 27 completed
-- **Sherlocks:** 12 completed
-- **Challenges:** 11 completed
-- **Flags:** 9
-- **Season 11:** Silver Tier — Rank **#3,775**
-- **Weekly Streak:** 1 week
-- **Member since:** August 2022
+<p align="center">
+  <img src="./htb.png" alt="Hack The Box" width="100%" />
+</p>
 
 ### Other CTF Experience
 
