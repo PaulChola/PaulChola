@@ -88,20 +88,28 @@ I continuously build practical cybersecurity skills through labs, personal proje
 
 ---
 
-##  CTF & Hack The Box
+## 🚩 Hack The Box & CTFs
 
-I enjoy Capture The Flag competitions because they provide a practical way to improve problem-solving and security skills.
+I use Capture The Flag competitions and hands-on labs to continuously improve my practical cybersecurity skills.
 
-### Highlights
+### Hack The Box
 
-*  **Hack The Box** - Active participant in cybersecurity challenges
-*  **HTB Script Kiddie** - Earned badge through practical challenge solving
-*  **HTB Cyber Apocalypse 2025** - Participated as an individual competitor
-*  **Holmes CTF 2025** - Participated in a defensive/security investigation challenge
-*  **Access Granted CTF** - Participated in a Zambian cybersecurity competition
-*   Regular practice with web, Linux, Windows, network, forensic, and security challenges
+- **HTB Rank:** Professional
+- **Level:** 48
+- **Machines:** 27 completed
+- **Sherlocks:** 12 completed
+- **Challenges:** 11 completed
+- **Flags:** 9
+- **Season 11:** Silver Tier — Rank **#3,775**
+- **Weekly Streak:** 1 week
+- **Member since:** August 2022
 
----
+### Other CTF Experience
+
+- **HTB Cyber Apocalypse 2025** — Individual participant
+- **Holmes CTF 2025** — Security investigation challenges
+- **Access Granted CTF** — Digital Safe Limited, Zambia
+-  Regular practice across web, Linux, Windows, networking, forensics, and security challenges
 
 ## Projects
 
@@ -255,7 +263,7 @@ The project used a lightweight semantic-segmentation model to identify different
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 I'm continuously developing my skills through practical projects, labs, certifications, and security challenges.
 
@@ -275,7 +283,7 @@ Current areas include:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,git,github,docker,azure,mysql,sqlite" />
@@ -292,7 +300,7 @@ Current areas include:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paul-chola-bwembya-mumbi-096182285">
@@ -308,7 +316,7 @@ Current areas include:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulChola&show_icons=true&theme=radical&hide_border=true" />
@@ -320,7 +328,7 @@ Current areas include:
 
 ---
 
-## 🐍 GitHub Contributions
+##  GitHub Contributions
 
 <p align="center">
   <picture>
