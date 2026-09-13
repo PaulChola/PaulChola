@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm **Paul Chola Bwembya Mumbi**, a cybersecurity graduate from Zambia with hands-on experience in **IT support, Active Directory, Windows environments, Python automation, and cybersecurity labs**.
+I'm **Paul Chola Bwembya Mumbi**, a cybersecurity graduate from Zambia with hands-on experience in **IT support, Active Directory, Windows environments, Python automation & Android POS, and cybersecurity**.
 
-I currently work as an **IT Support Assistant Intern at the Food Reserve Agency (FRA)**, supporting users, IT systems, Android POS devices, and the Crop Management System (CMS) across **36+ satellite depots** in Northern Province.
+****I currently work as an **IT Support Assistant Intern at the Food Reserve Agency (FRA)**, supporting users, IT systems, Android POS devices, and the Crop Management System (CMS) across **36+ Satellite depots** in Northern s Province.****
 
 My approach to cybersecurity is practical: I learn by **building, troubleshooting, analysing, and participating in hands-on labs and CTFs**.
 
@@ -31,7 +31,7 @@ My approach to cybersecurity is practical: I learn by **building, troubleshootin
 * Python & PowerShell Automation
 * Data Analysis & SQL
 * Malware Analysis
-* CTFs & Hack The Box
+* Hack The Box
 
 ---
 
