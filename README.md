@@ -94,11 +94,11 @@ I enjoy Capture The Flag competitions because they provide a practical way to im
 
 ### Highlights
 
-*  **Hack The Box** — Active participant in cybersecurity challenges
-*  **HTB Script Kiddie** — Earned badge through practical challenge solving
-*  **HTB Cyber Apocalypse 2025** — Participated as an individual competitor
-*  **Holmes CTF 2025** — Participated in a defensive/security investigation challenge
-*  **Access Granted CTF** — Participated in a Zambian cybersecurity competition
+*  **Hack The Box** - Active participant in cybersecurity challenges
+*  **HTB Script Kiddie** - Earned badge through practical challenge solving
+*  **HTB Cyber Apocalypse 2025** - Participated as an individual competitor
+*  **Holmes CTF 2025** - Participated in a defensive/security investigation challenge
+*  **Access Granted CTF** - Participated in a Zambian cybersecurity competition
 *   Regular practice with web, Linux, Windows, network, forensic, and security challenges
 
 ---
